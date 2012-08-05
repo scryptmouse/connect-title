@@ -1,0 +1,9 @@
+{
+  "name": "connect-title",
+  "author": "Alexa Grey <devel@mouse.vc>",
+  "version": "0.0.1",
+  "description": "Title helper for connect",
+  "scripts": {
+    "test": "jasmine-node spec"
+  }
+}
