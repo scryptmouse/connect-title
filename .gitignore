@@ -6,3 +6,4 @@ results
 *.gz
 *.log
 docs/*.html
+docs/*.css
